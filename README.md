@@ -1,5 +1,4 @@
 # Customer-Shopping-Behavior-Analysis
-https://github.com/CaiptanSatiya/Project-Images/blob/main/Screenshot%202026-02-04%20144422.png
 
 ## Objective:
 This project analyzes customer purchasing behavior to understand buying patterns, subscription adoption, product performance, and demographic trends. An interactive dashboard was built to help businesses make data-driven marketing and sales decisions.
@@ -50,3 +49,6 @@ This project analyzes customer purchasing behavior to understand buying patterns
 🛠️ Tools & Skills Used
 
 Power BI • Data Visualization • Business Analytics • Customer Segmentation • Dashboard Design • Statistical Analysis
+
+## Dashboard Screenshots
+![Dashboard 1](https://github.com/CaiptanSatiya/Project-Images/blob/main/Screenshot%202026-02-04%20144422.png)
